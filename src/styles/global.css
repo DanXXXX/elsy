@@ -1,0 +1,9 @@
+.box {
+    height: 190px;
+    padding: 8px;
+    background-color: #cccccc;
+}
+
+.box:nth-child(even) {
+    background-color: #aaaaaa;
+}
